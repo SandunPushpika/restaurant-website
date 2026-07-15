@@ -18,7 +18,7 @@ export default function ContactPage() {
         eyebrow="Get in Touch"
         title="Contact Us"
         subtitle="Questions, private dining enquiries, or press — we'd love to hear from you."
-        image="https://images.unsplash.com/photo-1541542684-4a70b5ee7e19?q=80&w=2000&auto=format&fit=crop"
+        image="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2000&auto=format&fit=crop"
         imageAlt="Table set by the window at Ember & Oak"
       />
       <section className="mx-auto grid max-w-6xl gap-12 px-6 py-24 md:grid-cols-3">
