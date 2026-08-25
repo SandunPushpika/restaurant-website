@@ -220,21 +220,6 @@ git push origin feature/amazing-feature
 ## Preview
 Preview link: https://restaurant-portfolio-nu.vercel.app/
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- Portfolio: https://yourportfolio.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
-- Email: you@example.com
-
 ---
 
 ## ⭐ Support
